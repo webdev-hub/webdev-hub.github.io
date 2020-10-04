@@ -37,17 +37,17 @@ a {
     position: fixed;
     top: 60px;
     left: 100px;
+    color: rgb(212, 212, 212);
 }
 
 .back-button.fa-arrow-left:hover {
-    text-decoration: underline;
+    background-color: #333;
 }
 
 .image-1,
 .image-2 {
     width: 300px;
     height: 200px;
-    border-radius: 50px;
     background-size: cover;
     margin: 20px auto;
 }
